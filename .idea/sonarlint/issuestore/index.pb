@@ -1,0 +1,7 @@
+
+>
+src/plugin.yml,2\5\25a3b99d27587e07b259cc1d525c25caddec8926
+=
+src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+D
+META-INF/MANIFEST.MF,2\e\2e8cf92205ec303e7304888d382cb6a8cf5f56ba

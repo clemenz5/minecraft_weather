@@ -1,0 +1,9 @@
+name: weather
+version: 0.1
+author: kron
+main: Main
+
+commands:
+  change_weather:
+    description: changes the weather to the same weather as the given location
+    usage: type change_weather followed by a german city name
